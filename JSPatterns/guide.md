@@ -13,7 +13,7 @@
 
 [第三章 字面量和构造函数](3.Literals_and_Constructors.md)
 
-[第四章 函数](4 .Functions.md)
+[第四章 函数](4.Functions.md)
 
 [第五章 对象创建模式](5.Object_Creation_Patterns.md)
 
