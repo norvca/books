@@ -9,5 +9,5 @@
 
 ## Javascript
 
-### [JavaScript Patterns](./JavaScriptPatterns/guide.md)
+### [JavaScript Patterns](./JSPatterns/guide.md)
 
