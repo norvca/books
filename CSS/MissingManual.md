@@ -1,4 +1,4 @@
-# CSS, The Missing Manual
+# Css: The Missing Manual
 
 ## Introduce
 
@@ -14,7 +14,23 @@ example :  `<a href="http://www.missingmanuals.com">Click here!</a>`
 this CSS3 selector refers to items that visitor has selected on a page, doesn't work in IE8.
 
 
-// read to page 59;
+
+## CSS Basics
+
+### Attribute selectors : begin with / end with
+
+`a[href^="http://"]` means select any links begin with `http://`
+
+```js
+a[href$=".pdf"] {
+    padding-left: 10px;
+}
+// means any links point to PDF file will has a padding-left of 10.
+```
+
+
+
+// page 69 to continue...
 
 
 
