@@ -30,7 +30,31 @@ a[href$=".pdf"] {
 
 
 
-// page 69 to continue...
+### Adjacent sibling selector
+
+` h2 + p` means select the `p` tag directly after the `h2` tag
+
+
+
+### general sibling combinatory selector
+
+`h2 ~ p` means __all__  `P` tags are siblings of the `h2` tag
+
+
+
+### The target selector
+
+`:target` need a element with a ID attribute that becomes the target, then you can make some style when clicking the a tag has the attribute `href="#ID"`
+
+example: https://jsbin.com/?html,css,js,output
+
+
+
+page69....
+
+​	
+
+
 
 
 
