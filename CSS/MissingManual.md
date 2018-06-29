@@ -50,11 +50,19 @@ example: https://jsbin.com/?html,css,js,output
 
 
 
-page69....
+## The :not() selector
+
+```js
+p:not(.classy) {
+    color: red;
+}
+```
+
+means select all p tags that don't have the classy class.
+
+
 
 ​	
 
-
-
-
+## page 86....
 
