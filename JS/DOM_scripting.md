@@ -20,5 +20,28 @@ The text within the paragraph is a different node, it's the first node of the pa
   </script>
 ```
 
+## element.insertAdjacentHTML(position, text)
 
-push to page 71...
+position: 
+
+​	'beforebegin': before the element it self
+
+​	"afterbegin": inside the element, before it's first child
+
+​	"beforeend": inside the element, after it's last child
+
+​	"afterend": after the element it self
+
+text:
+
+​	`text` is the string to be parsed as HTML and insert the DOM tree.
+
+```js
+// <p id="one">one</p>
+var p1 =  document.querySlector('#one');
+p1.insertAdjacentHTML('afterend', '<p>two</p>');
+
+// result: <p id="one">one</p><p>two</p>
+```
+
+push to page 94...
