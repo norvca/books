@@ -16,3 +16,5 @@
 ## Others
 
 ### [Make it stick](./Others/Make_it_stick.md)
+### [The art of learning](./Others/The_art_of_learning.md)
+
