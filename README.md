@@ -1,20 +1,20 @@
-# book lists
+# Book lists
 ## CSS
 
-### [CSS: The Missing Manual](./CSS/MissingManual.md)
+### [CSS: the missing manual](./css/missingmanual.md)
 
 
 
 ## Javascript
 
-### [DOM Scripting](./JS/DOM_scripting.md)
-### [JavaScript Patterns](./JSPatterns/guide.md)
-### [Eloquent Javascript](./JS/Eloquent_javascript.md)
+### [Dom scripting](./js/dom_scripting.md)
+### [Javascript patterns](./js_patterns/guide.md)
+### [Eloquent javascript](./js/eloquent_javascript.md)
 
 
 
 ## Others
 
-### [Make it stick](./Others/Make_it_stick.md)
-### [The art of learning](./Others/The_art_of_learning.md)
+### [Make it stick](./others/make_it_stick.md)
+### [The art of learning](./others/the_art_of_learning.md)
 
