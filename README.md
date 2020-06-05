@@ -11,6 +11,8 @@
 ### [Javascript patterns](./design-patterns/guide.md)
 ### [Eloquent javascript](./js/eloquent-javascript.md)
 
+### [Refactoring-Improving the Design of Existing Code](https://github.com/norvca/refactor)
+
 
 
 ## Others
